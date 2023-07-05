@@ -1,0 +1,27 @@
+.arju{
+    color: aliceblue;
+    background-color: rgb(120, 110, 130);
+    padding: 20px;
+    width: 50%;
+    height: 150px;
+    text-align: center;
+    margin-left: 250px;
+    border: 10px solid antiquewhite;
+    box-shadow: rgb(120, 110, 130);
+    border-radius: 20px;
+    
+}
+.web{
+    color: rgb(62, 4, 117);
+    font-size: larger;
+    
+}
+div{
+    background-color: rgb(56, 56, 110);
+    margin: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
